@@ -96,6 +96,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 
 * [Benian n8n Automation Catalog](https://benian-technologies.github.io/automation-templates/) - n8n workflow examples with setup guides and runnable walkthroughs using fictional data.
 * [Doc Willianms](https://www.youtube.com/channel/UCXv_CS0DaUVS25tFGkRALoA) - No Code tutorials.
+* [Internal Tool Blueprints](https://github.com/samclaassen/internal-tool-blueprints) - Free specs for 37 internal business tools, such as a CRM or help desk, to build with AI app builders like Lovable or Replit; 28 have been build-tested.
 * [Markerpad](https://www.makerpad.co/) - Join thousands learning to build software. No coding required.
 * [TutorialSearch](https://tutorialsearch.io/browse/web-development) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
